@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://bortlimited.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://bortlimited.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://bortlimited.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://bortlimited.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://bortlimited.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://bortlimited.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://bocaltd.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://bocaltd.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://bocaltd.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://bocaltd.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://bocaltd.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
